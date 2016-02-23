@@ -1,0 +1,1 @@
+plugs into WinChess, based on UBT
